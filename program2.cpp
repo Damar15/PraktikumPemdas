@@ -15,16 +15,16 @@ int main () {
     cin >> hari;
     if (hari == "Senin" || hari == "senin") {
         cout << "Pada hari " << hari << ",\nMahasiswa bernama " << nama << ",\nNIM " << nim << ",\ndi Kelas " << kelas << ",\nsedang belajar Matematika Komputasi.";
-    } else if (hari == "Selasa" || hari == "selasa") {
-        cout << "Pada hari" << hari << ",\nMahasiswa bernama " << nama << ",\nNIM " << nim << ",\ndi Kelas " << kelas << ",\n sedang belajar Pemrograman Dasar.";
+    } else if (hari == "Selasa " || hari == "selasa") {
+        cout << "Pada hari" << hari << ",\nMahasiswa bernama " << nama << ",\nNIM " << nim << ",\ndi Kelas " << kelas << ",\nsedang belajar Pemrograman Dasar.";
     } else if (hari == "Rabu" || hari == "rabu") {
         cout << "Pada hari" << hari << ",\nMahasiswa bernama " << nama << ",\nNIM " << nim << ",\ndi Kelas " << kelas << ",\nsedang belajar Pengantar Keilmuan Komputer.";
     } else if (hari == "Kamis" || hari == "kamis") {
         cout << "Pada hari" << hari << ",\nMahasiswa bernama " << nama << ",\nNIM " << nim << ",\ndi Kelas " << kelas << ",\nsedang belajar Fisika Elektronika.";
     } else if (hari == "Jumat" || hari == "jumat" || hari == "Jum'at" || hari == "jum'at") {
-        cout << "Pada hari" << hari << ",\nMahasiswa bernama " << nama << ",\nNIM " << nim << ",\ndi Kelas " << kelas << ",\nsedang belajar Sistem Digital.";
+        cout << "Pada hari " << hari << ",\nMahasiswa bernama " << nama << ",\nNIM " << nim << ",\ndi Kelas " << kelas << ",\nsedang belajar Sistem Digital.";
     } else {
-        cout << "Pada hari" << hari << ",\nMahasiswa bernama " << nama << ",\nNIM " << nim << ",\ndi Rumah " << kelas << ",\nsedang maraton anime.";
+        cout << "Pada hari " << hari << ",\nMahasiswa bernama " << nama << ",\nNIM " << nim << ",\ndi Kelas " << kelas << ",\nsedang maraton anime.";
     }
     return 0;
 }
