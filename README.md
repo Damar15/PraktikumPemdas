@@ -1,5 +1,5 @@
 # PraktikumPemdas
-Tugas 2 praktikum pemdas
+Tugas 2 Praktikum Pemdas
 
 Nama                      : Dani Mahardika
 
