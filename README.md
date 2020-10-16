@@ -7,4 +7,4 @@ NIM                       : 205150301111012
 
 Kelas                     : B
 
-Nama Asisten Praktikum    : Muhammad Sulthon
+Nama Asisten Praktikum    : MUHAMMAD SULTHON YAZID
